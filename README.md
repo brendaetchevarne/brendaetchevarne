@@ -38,10 +38,8 @@ I am now focused on starting my career in this field, aiming to get a job as a S
 
 ## 🏅 Certifications
 
-<div>
-    <img src="https://img.shields.io/badge/-Google%20Cybersecurity%20Cert-4285F4?&style=for-the-badge&logo=google&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-</div>
+- Google Cybersecurity Professional Certificate - In progress
+- Security+ - Soon
 
 ## 🖥️ Projects
 - <a href="https://github.com/brendaetchevarne/NIST-CSF-Lab/tree/main">NIST CSF Lab</a>
