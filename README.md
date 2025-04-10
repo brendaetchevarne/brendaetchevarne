@@ -13,7 +13,7 @@ I am now focused on starting my career in this field, aiming to get a job as a S
 |-----------------------------------------------|----------------------------|
 | Use NIST CSF to respond to a security incident| <a href="https://github.com/brendaetchevarne/NIST-CSF-Lab/tree/main">NIST CSF Lab</a>|
 | Apply filters to SQL queries                  | <a href="https://github.com/brendaetchevarne/SQL-filters-Lab/tree/main">SQL filters Lab</a>|
-| Use Linux commands to manage file permissions | <a href="[https://google.com](https://github.com/brendaetchevarne/File-mngmt-Linux-Lab/tree/main)">Manage file permissions with Linux Lab</a>|
+| Use Linux commands to manage file permissions | <a href="https://github.com/brendaetchevarne/File-mngmt-Linux-Lab/tree/main">Manage file permissions with Linux Lab</a>|
 
 ## ⚙️ Tools
 
