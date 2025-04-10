@@ -30,6 +30,12 @@ I am now focused on starting my career in this field, aiming to get a job as a S
     <img src="https://img.shields.io/badge/-Chronicle-000000?&style=for-the-badge&logo=google&logoColor=white" />
 </div>
 
+### DB & OS
+<div>
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+    <img src="https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white" />
+</div>
+
 ## 🏅 Certifications
 
 <div>
